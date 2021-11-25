@@ -9,6 +9,10 @@ Hi, I am Raja Jawahar. Passionate Mobile Application Developer with seven plus y
 
 📬 Reach me **[rajajawahar77@gmail.com](mailto:rajajawahar77@gmail.com)**
 
+If you like what I do, maybe consider buying me a coffee :
+
+<a href="https://www.buymeacoffee.com/rajajawahar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
+
 ## Connect with me:
 
 <p align = "center">
